@@ -2,6 +2,8 @@
 
 # Hi, I'm Prakhar Parashar 👋
 
+### Computer Science Engineering Student
+
 ### Building AI Systems, Developer Tools & Full-Stack Products
 
 **Applied AI • Backend Engineering • Systems & Developer Tooling • Machine Learning**
