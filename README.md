@@ -95,23 +95,6 @@ I care about **architecture, correctness, evaluation, and building technically i
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/prakhar811/prakhar811/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/prakhar811/prakhar811/main/profile-summary-card-output/github_dark/3-stats.svg" />
-
-<img src="https://raw.githubusercontent.com/prakhar811/prakhar811/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-
-</div>
-
-<img src="https://streak-stats.demolab.com?user=prakhar811&theme=github-dark-blue&hide_border=true" />
-
-</div>
 
 
 
