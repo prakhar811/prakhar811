@@ -99,31 +99,21 @@ I care about **architecture, correctness, evaluation, and building technically i
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prakhar811&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" />
+<img src="https://raw.githubusercontent.com/prakhar811/prakhar811/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar811&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<br>
+
+<img src="https://raw.githubusercontent.com/prakhar811/prakhar811/main/profile-summary-card-output/github_dark/3-stats.svg" />
+
+<img src="https://raw.githubusercontent.com/prakhar811/prakhar811/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
 
 </div>
-
-<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=prakhar811&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
----
 
-<div align="center">
-
-### Let's Connect
-
-<a href="https://www.linkedin.com/in/prakhar-parashar-55004b2a6/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:prakharkshp@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 <br><br>
 
